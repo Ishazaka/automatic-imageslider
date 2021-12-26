@@ -1,2 +1,2 @@
 # automatic-imageslider
-automatic slider using javascript
+ simple mini project automatic slider using javascript
