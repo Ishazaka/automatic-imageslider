@@ -18,3 +18,10 @@ const fourth = () => {
   document.getElementById('slide').src= 'quote2.jpeg';
      }
  setInterval(fourth , 8000);
+
+//  const sixth = () => {
+32	-
+33	- //     document.getElementById('slide').src= 'quote4.jpeg';
+34	- //   }
+35	- //   setInterval(sixth , 10000);
+
