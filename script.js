@@ -10,9 +10,8 @@ const first = () => {
    setInterval(second, 4000);
 
  const third = () => {
-19	-
-20	- //     document.getElementById('slide').src= 'motive3.jpeg';
-21	- //   }
-22	- //   setInterval(third, 6000);
+   document.getElementById('slide').src= 'motive3.jpeg';
+ }
+  setInterval(third, 6000);
 
 
