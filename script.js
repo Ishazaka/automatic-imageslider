@@ -14,4 +14,7 @@ const first = () => {
  }
   setInterval(third, 6000);
 
-
+const fourth = () => {
+  document.getElementById('slide').src= 'quote2.jpeg';
+     }
+ setInterval(fourth , 8000);
