@@ -22,6 +22,6 @@ const fourth = () => {
 //  const sixth = () => {
 32	-
 33	- //     document.getElementById('slide').src= 'quote4.jpeg';
-34	- //   }
-35	- //   setInterval(sixth , 10000);
+      }
+    setInterval(sixth , 10000);
 
